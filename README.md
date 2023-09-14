@@ -1,4 +1,4 @@
-<h2> Hi, I'm Esteban Garay! <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="50"></h2>
+<h2> Hi, I'm Esteban Garay! <img src="[https://giphy.com/embed/du3J3cXyzhj75IOgvA](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVrYWJhOWo5aGNkNThjMDNsa3lscTlxZnYwbHMxZTVyaGdyazJ6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="50"></h2>
 <img align="right" alt="GIF" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" />
 <p><em> DEVELOPER FULL STACK </br></a>
 </em></p>
