@@ -22,14 +22,13 @@
 <a href="https://instagram.com/_estebang23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_estebang23_" height="30" width="40" /></a>
 </p>
 
-<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="30">  **Portfolio** ([Click here](https://estebanportfolio20.netlify.app/))
+<img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="30">  **Portfolio** ([Click here](https://estebanportfolio20.netlify.app/))
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><b>🥸This are some technologies that i have worked with:</b></p>
+<p align="left"><b>This are some technologies that i have worked with:</b></p>
 <h4>- Languages and frameworks</h4>
 <p align="left">
-
-<!--Sass -->
+<!--Sass -->    
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <!--Next.js -->
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/> </a>
@@ -60,9 +59,9 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <!--MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-<!-- -->
+<!-- Expres.js -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
 <h4>- Tools</h4>
 
@@ -79,21 +78,18 @@
 <a href = "https://www.jetbrains.com/idea/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/intellij.svg" alt="idea"  width="40" height="40" ></a> 
 <!-- Pycharm  -->
 <a href = "https://www.jetbrains.com/es-es/pycharm/" target="_blank" ><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/pycharm.svg" alt="idea"  width="40" height="40" ></a> 
-</p>
 <!-- Gulp  -->
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-</p>
 <!-- Figma  -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
 <!-- Blender  -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-</p>
 <!-- Unity -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
+
 <p align="left"> 
 <p align="left">       
+    
+
 </p>
-
-
