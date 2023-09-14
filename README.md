@@ -1,5 +1,5 @@
 <h2> Hi, I'm Esteban Garay! <img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="40"></h2>
-<img align="right" alt="GIF" src="https://pixabay.com/get/g260e4d78d0f4c7bcd870d84dc459c7bc4dec72a008cc828242eb4f40da8efeba77b531febcc7a7e1d3c6b2561d7a18c684fda6f0d4ce12552da4438ac7ebc01a_1280.jpg" />
+<img align="right" alt="developer" src="https://pixabay.com/get/g260e4d78d0f4c7bcd870d84dc459c7bc4dec72a008cc828242eb4f40da8efeba77b531febcc7a7e1d3c6b2561d7a18c684fda6f0d4ce12552da4438ac7ebc01a_1280.jpg" width="200" />
 <p><em> DEVELOPER FULL STACK </br></a>
 </em></p>
 <p>
