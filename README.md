@@ -1,4 +1,4 @@
-<h2> Hi, I'm Esteban Garay!<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p></h2>
+<h2> Hi, I'm Esteban Garay! <img src="https://i.gifer.com/6M8G.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" />
 <p><em> DEVELOPER FULL STACK </br></a>
 </em></p>
