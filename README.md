@@ -1,5 +1,5 @@
 <h2> Hi, I'm Esteban Garay! <img src="https://i.gifer.com/6M8G.gif" width="50"></h2>
-<img align="right" alt="GIF" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" />
+<img align="right" alt="GIF" src="https://i.gifer.com/6M8G.gif" />
 <p><em> DEVELOPER FULL STACK </br></a>
 </em></p>
 <p>
