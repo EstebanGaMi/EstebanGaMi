@@ -6,10 +6,6 @@
   <h4 align="center"><b>"If you can imagine it, you can program it.."</b></h4>
 </p>
 
-**VISITOR COUNT**
-
-![Visitor Count](https://profile-counter.glitch.me/{EstebanGaMi}/count.svg)
-
 - 🌱 I’m currently learning Angular, Python, PHP ⚡️
 - 👯 I’m looking to collaborate on open source proyects
 - 🔭 I’m currently working on a project for https://www.instagram.com/dalequevalen/
@@ -19,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/estebangami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/estebangami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esteban-garay-4baa94202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban-garay-4baa94202" height="30" width="40" /></a>
-<a href="https://instagram.com/_estebang23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_estebang23_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/estebangami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_estebang23_" height="30" width="40" /></a>
 </p>
 
 <img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="30">  **Portfolio** ([Click here](https://estebanportfolio20.netlify.app/))
