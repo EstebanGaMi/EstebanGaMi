@@ -1,5 +1,5 @@
 <h2> Hi, I'm Esteban Garay! <img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="40"></h2>
-<img align="right" alt="developer" src="https://avatars.githubusercontent.com/u/101297637?s=400&u=e7962e2ec97b68685e22a4d8771da23f08131cf3&v=4" width="400" />
+<img align="right" alt="developer" src="https://avatars.githubusercontent.com/u/101297637?s=400&u=e7962e2ec97b68685e22a4d8771da23f08131cf3&v=4" width="400" style="border-radius: 5px" />
 <p><em> DEVELOPER FULL STACK </br></a>
 </em></p>
 <p>
@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/estebangami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_estebang23_" height="30" width="40" /></a>
 </p>
 
-<img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="30">  **Portfolio** ([Click here](https://estebanportfolio20.netlify.app/))
+<img src="https://coderfinalgaray.netlify.app/img/logo.svg" width="30">  **Portfolio** ([Click here](https://portfolio3-0-lz1f.vercel.app/))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><b>This are some technologies that i have worked with:</b></p>
