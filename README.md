@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/estebangami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/estebangami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esteban-garay-4baa94202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban-garay-4baa94202" height="30" width="40" /></a>
 <a href="https://www.instagram.com/estebangami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_estebang23_" height="30" width="40" /></a>
 </p>
@@ -29,7 +28,7 @@
 <!--Next.js -->
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/> </a>
 <!--Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="bootstrap" width="40" height="40"/> </a>
 <!--Tailwind -->
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <!--JavaScript -->
